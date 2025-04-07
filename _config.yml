@@ -3,7 +3,7 @@ description: Deadline countdowns for conferences relating to research at the <a 
 author: Robert Moss (forked from Abhishek Das)
 
 domain: "atmcl.github.io"
-baseurl: "/atmcl-deadlines"
+baseurl: "/KAU-deadlines"
 
 twitter_username: none
 twitter_hashtag: none

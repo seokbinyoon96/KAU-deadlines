@@ -107,3 +107,18 @@
   timezone: UTC-5
   place: Gold Coast, Australia
   sub: AA
+
+- title: ATRS
+  fullname: Air Transport Research Society
+  year: 2025
+  id: atrs25
+  link: https://www.atrsworld.org/
+  date: July 1 - July 4, 2025
+  start: 2025-07-01
+  end: 2025-07-04
+  abstract deadline: '2025-02-28 23:59:59'
+  deadline: '2025-05-01 23:59:59'
+  timezone: UTC-5
+  place: Hong Kong
+  sub: AA
+  

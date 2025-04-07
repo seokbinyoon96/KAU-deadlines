@@ -28,4 +28,16 @@
   place: Montreal, Canada
   sub: AA
 
+- title: ATRD
+  fullname: US-Europe Air Transportation Research & Development Symposium
+  year: 2025
+  id: atrd25
+  link: https://www.atmseminar.org/
+  date: June 24 - June 27, 2025
+  start: 2025-06-24
+  end: 2025-06-27
+  deadline: '2025-02-16 23:59:59'
+  timezone: UTC-5
+  place: Prague, Czech Republic
+  sub: AA
   

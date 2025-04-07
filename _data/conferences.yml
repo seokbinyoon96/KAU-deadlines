@@ -92,5 +92,17 @@
   abstract deadline: '2025-05-31 23:59:59'
   deadline: '2025-08-31 23:59:59'
   timezone: UTC-5
-  place: Seoul, Korea
+
+
+- title: ITSC
+  fullname: IEEE International Conference on Intelligent Transportation Systems
+  year: 2025
+  id: itsc25
+  link: https://ieee-itsc.org/2025/
+  date: November 18 - November 21, 2025
+  start: 2025-11-18
+  end: 2025-11-21
+  deadline: '2025-07-15 23:59:59'
+  timezone: UTC-5
+  place: Gold Coast, Australia
   sub: AA

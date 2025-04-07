@@ -2,17 +2,17 @@ title: SISL Conference Deadlines # (Maintained by @mossr)
 description: Deadline countdowns for conferences relating to research at the <a href='https://sisl.stanford.edu'>Stanford Intelligent Systems Laboratory (SISL)</a>
 author: Robert Moss (forked from Abhishek Das)
 
-domain: "sisl.github.io"
-baseurl: "/sisl-deadlines"
+domain: "atmcl.github.io"
+baseurl: "/atmcl-deadlines"
 
 twitter_username: SISLaboratory
 twitter_hashtag: sisl
-github_username: sisl
-github_repo: sisl-deadlines
+github_username: seokbinyoon96
+github_repo: KAU-deadlines
 
 github: [metadata]
 
-repository: sisl/sisl_deadlines
+repository: seokbinyoon96/KAU-deadlines
 
 markdown: kramdown
 ga_id: 

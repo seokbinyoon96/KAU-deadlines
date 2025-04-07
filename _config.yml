@@ -1,6 +1,6 @@
 title: KAU Conference Deadlines # (Maintained by @mossr)
-description: Deadline countdowns for conferences relating to research at the <a href='https://sisl.stanford.edu'>Stanford Intelligent Systems Laboratory (SISL)</a>
-author: Robert Moss (forked from Abhishek Das)
+description: Deadline countdowns for conferences relating to research at the <a href='https://atmcl.kau.ac.kr/'>Air Transportation Modeling and Control Laboratory (ATMCL)</a>
+author: Seokbin Yoon (forked from Abhishek Das and Robert Moss)
 
 domain: "atmcl.github.io"
 baseurl: "/KAU-deadlines"

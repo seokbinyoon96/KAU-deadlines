@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 METHOD:PUBLISH
 VERSION:2.0
-PRODID:-//{{ site.domain }}//sisl-deadlines//EN
+PRODID:-//{{ site.domain }}//ATMCL-deadlines//EN
 X-WR-CALNAME:ATMCL Conference Deadlines
 X-PUBLISHED-TTL:PT1H
 {%- for conf in site.data.conferences -%}

@@ -121,4 +121,19 @@
   timezone: UTC-5
   place: Hong Kong
   sub: AA
+
+- title: AAAI 
+  fullname: AAAI Conference on Artificial Intelligence
+  year: 2026
+  id: aaai26
+  link: https://aaai.org/conference/aaai/aaai-26/
+  date: January 20 - January 27, 2026
+  start: 2026-01-20
+  end: 2026-01-27
+  abstract deadline: '2025-08-07 23:59:59'
+  deadline: '2025-08-15 23:59:59'
+  timezone: UTC-12
+  place: Singapore
+  sub: AI
+
   

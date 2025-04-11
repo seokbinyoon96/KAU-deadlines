@@ -2,3 +2,10 @@
 - name: Aerospace
   sub: AA
   color: "#0aefff"
+- name: Artificial Intelligence
+  sub: AI
+  color: "#deff0a"
+- name: Robotics
+  sub: RO
+  color: "#0aff99"
+
